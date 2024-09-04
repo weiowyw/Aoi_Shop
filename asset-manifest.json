@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aoi_Shop/static/css/main.c6836aa4.css",
+    "main.js": "/Aoi_Shop/static/js/main.3caddab4.js",
+    "static/media/bg.jpg": "/Aoi_Shop/static/media/bg.af639a3ccaabaae5cc1b.jpg",
+    "static/media/aoi_sofinki.svg": "/Aoi_Shop/static/media/aoi_sofinki.a827e4220eefbc29aa48890668baebba.svg",
+    "index.html": "/Aoi_Shop/index.html",
+    "main.c6836aa4.css.map": "/Aoi_Shop/static/css/main.c6836aa4.css.map",
+    "main.3caddab4.js.map": "/Aoi_Shop/static/js/main.3caddab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6836aa4.css",
+    "static/js/main.3caddab4.js"
+  ]
+}
