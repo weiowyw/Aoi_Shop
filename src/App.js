@@ -12,10 +12,9 @@ function App() {
 
     useEffect(() => {
         const getItems = async() => {
-            const res = await fetch('https://fakestoreapi.com/products');
+            const res = await fetch('http://localhost:5000/products');
             const data = await res.json();
-            const filteredData = data.filter(item => item.id !== 5 && item.id !== 15);
-            setItems(filteredData);
+            setItems(data);
         }
         getItems();
     }, []);
